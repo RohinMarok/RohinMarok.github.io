@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(54, 91, 211, 0.4); 
+  border: 6px solid rgba(65, 76, 240, 0.4); 
   border-radius: 50% !important;
 }
 
@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #396ddf;
+  color: #4144e4;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #544ce8;
   background-color: white;
 }
 /* main body */
@@ -124,7 +124,7 @@
 /* body-color */
 
 body {
-  color: #333;
+  color: #4a4ff1;
   font-size: 18px;
 }
 
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #1b47c1;
+  color: #1b29c1;
 }
 
 /* main blockqoute */
@@ -155,8 +155,8 @@ a {
 } */
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #365be4;
+  color: #3840d9;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -237,7 +237,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color:  #1b47c1;
+  color:  #4a4de7;
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -275,7 +275,7 @@ ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) 
 }
 
 ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.logo) a span {
-  color: #333 !important;
+  color: #4446e3 !important;
 }
 
 li.logo span {
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #45a3ec repeat;
+  background: #485be6 repeat;
   position: relative;
 }
 
@@ -367,7 +367,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+  background-color: rgba(80, 90, 230, 0.2);
 }
 
 .card {
@@ -383,12 +383,12 @@ h3 {
 
 .card li a {
   margin-right: 0;
-  color: #333;
-  border-bottom: 2px solid #ffab40;
+  color: #333333;
+  border-bottom: 2px solid #ff40ac;
 }
 
 .card li a:hover {
-  color: #333;
+  color: #242424;
   font-weight: 500;
 }
 
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid  #1b47c1 !important;
+  border-bottom: 3px solid  #4235db !important;
 }
 
 #skills .card.large {
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #1b47c1 !important;
+  color: #404adc !important;
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color:  #1b47c1 !important;
+  background-color:  #7546e1 !important;
 }
 
 /* .teal {
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #1b47c1;
+    color: #3c4ae0;
     height: 56px;
     line-height: 56px;
   }
